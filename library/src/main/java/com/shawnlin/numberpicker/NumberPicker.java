@@ -228,7 +228,7 @@ public class NumberPicker extends LinearLayout {
     /**
      * The text for showing the current value.
      */
-    private final EditText mSelectedText;
+    public final EditText mSelectedText;
 
     /**
      * The center X position of the selected text.
